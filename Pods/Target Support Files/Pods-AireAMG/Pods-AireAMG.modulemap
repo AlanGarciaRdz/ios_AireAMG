@@ -1,0 +1,6 @@
+framework module Pods_AireAMG {
+  umbrella header "Pods-AireAMG-umbrella.h"
+
+  export *
+  module * { export * }
+}
